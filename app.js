@@ -17,3 +17,6 @@ app.use('/weather', weatherRoutes);
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
+
+
+//.env API_KEY = 453030c236117ad469dfbb404e14ce75
